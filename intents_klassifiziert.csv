@@ -1,0 +1,242 @@
+input.text,intent,intent_confidence,classification
+,,0.0,NA
+test1234567890,,0.0,TN
+hallo?,General_Greetings,0.8472726821899415,TP
+ich möchte meine adresse ändern lassen in ihrem system,Customer_Care_User_newAddress,0.9651786804199218,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+aaa,,0.0,TN
+ich weiß meine kundennummer leider nicht,General_Negative_Feedback,0.43760318756103517,TP
+auf wiedersehen,General_Ending,0.8135024070739747,TP
+können sie mir den kontakt zu einem mitarbeiter nennen?,Customer_Care_Contact_Us,0.9419111251831056,TP
+bye,General_Ending,1.0,TP
+,,0.0,NA
+servus,General_Ending,1.0,TP
+hey ich will noch nicht gehen!,General_Greetings,0.7657908439636232,FP
+let us check if you speak english!,General_Ending,0.6793716907501222,FP
+what is up to you?,,0.0,TN
+do you understand the english language?,General_Ending,0.591175127029419,FP
+,,0.0,NA
+Servus!,General_Ending,1.0,TP
+Guten Abend! Ich möchte meine Adresse ändern.,Customer_Care_User_newAddress,0.9365150928497314,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+1239744,,0.0,TN
+123458,,0.0,TN
+4020,,0.0,TN
+Linz,,0.0,TN
+Hauptplatz,,0.0,TN
+Hoftrakt Top 8,General_Ending,0.5467081069946289,FP
+ja bitte!,General_Positive_Feedback,0.88598952293396,TP
+Bye Bye!,General_Ending,0.9870094299316408,TP
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+hi,General_Greetings,1.0,TP
+ich habe eine neue wohnung bekommen,Customer_Care_User_newAddress,0.6141439437866212,TP
+ich habe eine neue wohnung bekommen,Customer_Care_User_newAddress,1.0,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123681,,0.0,TN
+1220,,0.0,TN
+wien,General_Ending,0.4089723825454712,FP
+stadlauer strasse,General_Ending,0.5198479175567627,FP
+64/2/38,,0.0,TN
+j,General_Positive_Feedback,1.0,TP
+danke,General_Ending,0.6131723403930665,TP
+,,0.0,NA
+hallo.,General_Greetings,0.8472726821899415,TP
+ich möchte einen flug nach amsterdam buchen,Customer_Care_Contact_Us,0.46641168594360355,FP
+ich möchte einen flug nach amsterdam buchen,,0.0,TN
+hallo,General_Greetings,0.8472726821899415,TP
+ich möchte statt der flugbuchung bitte meine adressdaten ändern lassen,Customer_Care_User_newAddress,0.9621357917785645,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123569,,0.0,TN
+1220,,0.0,TN
+Wien,General_Ending,0.4089723825454712,FP
+Am Kaisermühlendamm,General_Positive_Feedback,0.5475107192993165,FP
+45e/45e/45e,General_Ending,0.46914091110229494,FP
+ja bitte!,General_Positive_Feedback,0.88598952293396,TP
+auf wiedersehen,General_Ending,0.8135024070739747,TP
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+Aloha!,,0.0,FN
+Hi!!,General_Greetings,1.0,TP
+Ich bin umgezogen und möchte meine Adresse ändern.,Customer_Care_User_newAddress,0.9994869232177734,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123654,,0.0,TN
+1010,,0.0,TN
+Wien,General_Ending,0.4089723825454712,FP
+Landskorngasse,,0.0,TN
+1,,0.0,TN
+Ja,General_Positive_Feedback,0.9074244499206543,TP
+Vielen Dank!,General_Ending,0.5253317832946778,TP
+,,0.0,NA
+,,0.0,NA
+hi,General_Greetings,1.0,TP
+gar nicht möchte nur plaudern,General_Greetings,0.2181092913427051,FP
+erzähl mir etwas,General_Jokes,0.8359870910644531,TP
+du kannst witze erzählen?,General_Jokes,0.9346341133117677,TP
+das gefällt mir,General_Ending,0.5190295696258544,FP
+ciao,General_Ending,1.0,TP
+,,0.0,NA
+grüzi,,0.0,FN
+hallo.,General_Greetings,0.8472726821899415,TP
+ich habe ein neues haus gekauft und bin überglücklich,Customer_Care_User_newAddress,0.731690263748169,TP
+ja das hast du gut erkannt!,General_Positive_Feedback,0.9603938579559326,TP
+123789,,0.0,TN
+6020,,0.0,TN
+innsbruck,,0.0,TN
+andreas hofer strasse,General_Ending,0.44412941932678224,FP
+20,,0.0,TN
+yes please!,,0.0,FN
+dankeschön,General_Ending,0.7277424335479736,TP
+auf wiedersehen,General_Ending,0.8135024070739747,TP
+,,0.0,NA
+,,0.0,NA
+Hallo ich heiße Melanie!,General_Greetings,0.9437110900878907,TP
+ich bin umgezogen,Customer_Care_User_newAddress,1.0,TP
+ja bitte!,General_Positive_Feedback,0.88598952293396,TP
+123987,,0.0,TN
+was bedeutet PLZ,,0.0,TN
+ich habe deine anweisung auch nicht verstanden,General_Negative_Feedback,0.7999196529388428,TP
+3830,,0.0,TN
+waidhofen,,0.0,TN
+waidhofen an der thaya,General_Ending,0.5024884700775147,FP
+gymnasiumstrasse,General_Ending,0.5937589883804322,FP
+4e - 58a - 7c,General_Ending,0.3253123913655145,FP
+ja bitte!,General_Positive_Feedback,0.88598952293396,TP
+danke und auf wiedersehen,General_Ending,0.9231289386749268,TP
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+hallo mein Name ist Hase,General_Greetings,0.7887331485748292,TP
+ich weiß von nichts,General_Ending,0.5284399509429931,FP
+ich möchte meine Frau ändern,Customer_Care_User_newAddress,0.6454928874969483,FP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+124597,,0.0,TN
+3804,,0.0,TN
+Allentsteig,,0.0,TN
+Kalvarienberg 15/3,General_Ending,0.5043031454086304,FP
+15/3,General_Ending,0.5525257110595703,FP
+danke ich melde mich morgen wieder,General_Ending,0.589555835723877,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+hi,General_Greetings,1.0,TP
+ich habe eine neue adresse!,Customer_Care_User_newAddress,0.8486304759979248,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123999,,0.0,TN
+0000,,0.0,TN
+1230,,0.0,TN
+1234,,0.0,TN
+technikum wien,General_Ending,0.3770977139472962,FP
+ich kenne die strasse nicht,,0.0,TN
+test,General_Ending,0.5391499519348144,FP
+wurden meine daten geändert?,Customer_Care_User_newAddress,0.6759411334991455,FP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123999,,0.0,TN
+test123,,0.0,TN
+3874,,0.0,TN
+berlin,,0.0,TN
+litschau,,0.0,TN
+bahnhofstrasse,General_Ending,0.5827705383300781,FP
+string,,0.0,TN
+15,,0.0,TN
+hallo,General_Greetings,0.8472726821899415,TP
+wie schon gesagt: ich habe eine neue adresse!,Customer_Care_User_newAddress,0.8185885906219483,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123999,,0.0,TN
+3874,,0.0,TN
+litschau,,0.0,TN
+bahnhofstrasse,General_Ending,0.5827705383300781,FP
+3,General_Ending,0.5525257110595703,FP
+ja bitte!,General_Positive_Feedback,0.88598952293396,TP
+vielen dank cu,General_Ending,0.9041293144226075,TP
+,,0.0,NA
+Hallo Lea!,General_Greetings,0.8472726821899415,TP
+Ich benötige eine Adressänderung!,Customer_Care_User_newAddress,0.7473392009735107,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123985,,0.0,TN
+4020,,0.0,TN
+Hauptplatz 1,General_Ending,0.21847130211125432,FP
+Linz,,0.0,TN
+Hauptplatz 1,General_Ending,0.21847130211125432,FP
+1,,0.0,TN
+Ja ich bestätige!,General_Positive_Feedback,0.7349722385406494,TP
+Danke!,General_Ending,0.6131723403930665,TP
+Bis bald!,General_Ending,0.8723432064056398,TP
+,,0.0,NA
+,,0.0,NA
+,,0.0,NA
+Hallo wie wird das Wetter im Juli ?,General_Jokes,0.6764325618743896,TP
+Wie heißt dein Mann?,General_Greetings,0.5392543792724609,FP
+Namenänderung,General_Ending,0.4714451551437378,FP
+Namenänderung,,0.0,TN
+Adressenänderung,Customer_Care_User_newAddress,0.6332339763641357,TP
+Adressenänderung,Customer_Care_User_newAddress,1.0,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+1364789,,0.0,TN
+124366,,0.0,TN
+3804,,0.0,TN
+Allentsteig,,0.0,TN
+Kalvarienberg,,0.0,TN
+15/3,General_Ending,0.5525257110595703,FP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+,,0.0,NA
+,,0.0,NA
+Halo!,General_Ending,0.5648344993591309,FP
+Hallo!,General_Greetings,0.8472726821899415,TP
+Adresse ändern bitte!,Customer_Care_User_newAddress,0.8298782348632814,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+9873847,,0.0,TN
+123458,,0.0,TN
+1220,,0.0,TN
+Wien,General_Ending,0.4089723825454712,FP
+Kartoffelstraße,General_Ending,0.5463733673095703,FP
+4a,General_Ending,0.20159719753810348,FP
+Kratochwjlestraße,,0.0,TN
+4a,General_Ending,0.20159719753810348,FP
+Ja!,General_Positive_Feedback,0.9074244499206543,TP
+Auf Wiedersehen!!!!!,General_Ending,0.8135024070739747,TP
+Ich möchte noch eine weitere Adressen ändern!,Customer_Care_User_newAddress,0.8117602348327637,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123555,,0.0,TN
+1220,,0.0,TN
+Wien,General_Ending,0.4089723825454712,FP
+Vivenotgasse,,0.0,TN
+52 Stiege 1 Top 40,,0.0,TN
+Ja bitte die Änderung durchführen!,General_Positive_Feedback,0.9261755466461181,TP
+Danke!,General_Ending,0.6131723403930665,TP
+,,0.0,NA
+hallo,General_Greetings,0.8472726821899415,TP
+ich weiß nicht. was kannst du?,General_Negative_Feedback,0.8708378791809082,TP
+wie wird das wetter morgen,General_Jokes,1.0,TP
+hahaha,,0.0,TN
+was kannst du sonst noch?,General_Negative_Feedback,0.62448148727417,FP
+du schreibst aber nicht viel,General_Negative_Feedback,0.41091375350952153,TP
+ich möchte mit einem mitarbeiter sprechen,Customer_Care_Contact_Us,0.6692617893218995,TP
+ok danke,General_Ending,0.5922202825546266,TP
+,,0.0,NA
+Hallo,General_Greetings,0.8472726821899415,TP
+Ich bin umgezogen,Customer_Care_User_newAddress,1.0,TP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+123456,,0.0,TN
+1230,,0.0,TN
+Wien,General_Ending,0.4089723825454712,FP
+Antonbaumgartnerstraße,General_Positive_Feedback,0.4567783832550049,FP
+11,,0.0,TN
+Antonbaungartnerstraße 11,General_Ending,0.5273758888244628,FP
+Antonbaumgartnerstraße 11,General_Positive_Feedback,0.4567783832550049,FP
+Porschestraße,,0.0,TN
+8,General_Ending,0.5635786056518555,FP
+ja,General_Positive_Feedback,0.9074244499206543,TP
+danke,General_Ending,0.6131723403930665,TP
+danke,General_Ending,0.6131723403930665,TP
+ebenfalls,General_Greetings,0.483753252029419,FP
+nix alles gut,General_Ending,0.7222696781158449,TN

@@ -1,0 +1,126 @@
+﻿classification;input.text
+NA;
+FP;test1234567890
+TN;hallo?
+FP;ich mÃ¶chte meine adresse Ã¤ndern lassen in ihrem system
+TP;ja
+TN;aaa
+TN;ich weiÃŸ meine kundennummer leider nicht
+TN;auf wiedersehen
+TN;kÃ¶nnen sie mir den kontakt zu einem mitarbeiter nennen?
+TN;bye
+NA;
+TN;servus
+FP;hey ich will noch nicht gehen!
+FP;let us check if you speak english!
+TN;what is up to you?
+TN;do you understand the english language?
+NA;
+TN;Servus!
+TN;Guten Abend! Ich mÃ¶chte meine Adresse Ã¤ndern.
+TP;ja
+TN;1239744
+TP;123458
+TP;4020
+TP;Linz
+TP;Hauptplatz
+TP;Hoftrakt Top 8
+TP;ja bitte!
+TN;Bye Bye!
+NA;
+NA;
+NA;
+NA;
+NA;
+NA;
+TN;hi
+TN;ich habe eine neue wohnung bekommen
+TN;ich habe eine neue wohnung bekommen
+TP;ja
+TP;123681
+TP;1220
+TP;wien
+TP;stadlauer strasse
+TP;64/2/38
+TP;j
+TN;danke
+NA;
+TN;hallo.
+FP;ich mÃ¶chte einen flug nach amsterdam buchen
+FP;ich mÃ¶chte einen flug nach amsterdam buchen
+TN;hallo
+FP;ich mÃ¶chte statt der flugbuchung bitte meine adressdaten Ã¤ndern lassen
+TP;ja
+TP;123569
+TP;1220
+TP;Wien
+TP;Am KaisermÃ¼hlendamm
+TP;45e/45e/45e
+TP;ja bitte!
+TN;auf wiedersehen
+NA;
+NA;
+NA;
+NA;
+TN;Aloha!
+TN;Hi!!
+FP;Ich bin umgezogen und mÃ¶chte meine Adresse Ã¤ndern.
+TP;ja
+TP;123654
+TP;1010
+TP;Wien
+TP;Landskorngasse
+TP;1
+TP;Ja
+FP;Vielen Dank!
+NA;
+NA;
+TN;hi
+TN;gar nicht mÃ¶chte nur plaudern
+TN;erzÃ¤hl mir etwas
+FP;du kannst witze erzÃ¤hlen?
+FP;das gefÃ¤llt mir
+TN;ciao
+NA;
+TN;grÃ¼zi
+TN;hallo.
+FP;ich habe ein neues haus gekauft und bin Ã¼berglÃ¼cklich
+TP;ja das hast du gut erkannt!
+TP;123789
+TP;6020
+TP;innsbruck
+TP;andreas hofer strasse
+TP;20
+TP;yes please!
+TN;dankeschÃ¶n
+TN;auf wiedersehen
+NA;
+NA;
+TN;Hallo ich heiÃŸe Melanie!
+FP;ich bin umgezogen
+TP;ja bitte!
+TP;123987
+TN;was bedeutet PLZ
+TN;ich habe deine anweisung auch nicht verstanden
+TP;3830
+TN;waidhofen
+TP;waidhofen an der thaya
+TP;gymnasiumstrasse
+TP;4e - 58a - 7c
+TP;ja bitte!
+TN;danke und auf wiedersehen
+NA;
+NA;
+NA;
+NA;
+FP;hallo mein Name ist Hase
+TN;ich weiÃŸ von nichts
+TN;ich mÃ¶chte meine Frau Ã¤ndern
+TP;ja
+TP;124597
+TP;3804
+TP;Allentsteig
+NA;Kalvarienberg 15/3
+TP;15.Mär
+TN;danke ich melde mich morgen wieder
+TP;ja
